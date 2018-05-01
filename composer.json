@@ -1,5 +1,5 @@
 {
-  "name": "avangate/avangate-php-rest-api-client",
+  "name": "kgulpinar/avangate-php-rest-api-client",
   "license": "MIT",
   "require": {
     "php": ">=5.6",
